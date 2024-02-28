@@ -1,4 +1,5 @@
 # WA Perception Coding Challenge: Lane Detection
+[Problem Statement](https://github.com/WisconsinAutonomous/CodingChallenges/blob/master/perception)
 
 Note: For detailed description of the implementation and methodology please follow along the comments and output in the Jupyter Notebook located at `./WA_perceptionChallenge.ipynb`
 
